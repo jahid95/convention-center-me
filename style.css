@@ -1,0 +1,15 @@
+/* #slider-3 {
+    background-color: rgba(0, 0, 0, 0.7);
+    
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 250px;
+} */
+
+#toast{
+    max-width: 260px;
+    position: absolute;
+    top: 155px;
+    right: 50px;
+}
